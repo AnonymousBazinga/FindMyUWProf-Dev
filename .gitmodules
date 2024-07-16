@@ -1,6 +1,0 @@
-[submodule "RMP-Front-End"]
-	path = RMP-Front-End
-	url = https://github.com/nghiaruoi/RMP-Front-End
-[submodule "RMP-UW-Back-End"]
-	path = RMP-UW-Back-End
-	url = https://github.com/nghiaruoi/RMP-UW-Back-End
